@@ -22,6 +22,4 @@ nothing to commit,working tree clean
 FOR RUN IONIC ANGULAR APPLICATION
 ====================================
 Need Resources
-E:\000-GITWORKSPACE\vinsoft\ContactApp > npm install
-Run
-E:\000-GITWORKSPACE\vinsoft\ContactApp > ionic s
+E:\000-GITWORKSPACE\vinsoft\ContactApp > npm install   |  E:\000-GITWORKSPACE\vinsoft\ContactApp > ionic s
